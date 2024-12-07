@@ -1,11 +1,14 @@
 // ==UserScript==
 // @name         Kraland Téléphone par ID
 // @namespace    https://github.com/dichra
-// @version      2024-08-22
-// @description  Appeler n'importe qui avec un ID
+// @version      0.2
+// @description  Appeler n'importe qui avec son ID
 // @author       dichra
 // @match        http://www.kraland.org/order.php?p1=2211*
 // @match        http://www.kraland.org/order.php?p1=1100*
+// @downloadURL  https://github.com/dichra/kraland-userscripts/raw/main/src/phone-anyone.user.js
+// @homepageURL  https://github.com/dichra/kraland-userscripts
+// @supportURL   https://github.com/dichra/kraland-userscripts/issues
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=kraland.org
 // @grant        none
 // ==/UserScript==
